@@ -1,8 +1,8 @@
 ### Olá! Bem-vindo ao meu GitHub, me chamo Daniel Moscardini.
 - 21 anos de idade. 
-- Cursando o 3º Semestre de Ciências da Computação (Uni-Facef).
+- Cursando o 4º Semestre de Ciências da Computação (Uni-Facef).
 - Desde Janeiro de 2020 atuando como Analista de Sistemas e Administrador de Banco de Dados (Carmen Steffens).
-- Focando em Python.
+- Focando em Node e Express.
 
 
  <div>
