@@ -2,7 +2,7 @@
 - 21 anos de idade. 
 - Cursando o 4º Semestre de Ciências da Computação (Uni-Facef).
 - Desde Janeiro de 2020 atuando como Analista de Sistemas e Administrador de Banco de Dados (Carmen Steffens).
-- Focando em Node e Express.
+- Focando em Desenvolvimento Web.
 
 
  <div>
