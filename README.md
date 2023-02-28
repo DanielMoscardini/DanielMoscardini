@@ -1,6 +1,6 @@
 ### Olá! Bem-vindo ao meu GitHub, me chamo Daniel Moscardini.
-- 21 anos de idade. 
-- Cursando o 5º Semestre de Ciências da Computação (Uni-Facef).
+- 22 anos de idade. 
+- Cursando o 5º Semestre de Engenharia de Software (Uni-Facef).
 - Focando em Desenvolvimento Web.
 
 
